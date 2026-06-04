@@ -1,30 +1,105 @@
+
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Learner | Creative Editor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-1810&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-1810" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-1810" alt="ashutosh-1810" /></a> </p>
-
-- 🌱 I’m currently learning **Full stack Dev**
-
-- 👨‍💻 All of my projects are available at [INSTAGRAM.COM](INSTAGRAM.COM)
-
-- 💬 Ask me about **After Affects premier-pro**
-
-- 📫 How to reach me **ashutosh181023@gmail.com**
-
-- 📄 Know about my experiences [DUMP.COM](DUMP.COM)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;MERN+Stack+Learner;JavaScript+Enthusiast;Video+Editor+%26+Designer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutosh-1810&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-1810&show_icons=true&locale=en&layout=compact" alt="ashutosh-1810" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-1810&show_icons=true&locale=en" alt="ashutosh-1810" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-1810&" alt="ashutosh-1810" /></p>
+- 🌱 Currently learning **MERN Stack**
+- 💻 Passionate about **Frontend Development**
+- 🎬 Skilled in **After Effects & Premiere Pro**
+- ⚡ Love building modern web experiences
+- 📫 Reach me at **ashutosh181023@gmail.com**
 
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/ashutosh-1810" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/your_username" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your_username" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,c,cpp,git,github,vscode,photoshop" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashutosh-1810&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-1810&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-1810&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-1810&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashutosh-1810&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```javascript
+const ashutosh = {
+    code: ["HTML", "CSS", "JavaScript", "Python", "C++"],
+    tools: ["React", "Node.js", "Git", "Photoshop"],
+    currentFocus: "MERN Stack",
+    challenge: "Building awesome projects every day 🚀"
+};
+````
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<h3 align="center">⭐ Keep Learning • Keep Building • Keep Growing 🚀</h3>
+```
